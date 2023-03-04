@@ -1,0 +1,9 @@
+Change Component Comment : Designator=AVR ISP Old Comment=ISP Header New Comment=AVR ISP
+Change Component Comment : Designator=STAT LED Old Comment=Status LED New Comment=STAT LED
+Change Component Designator: OldDesignator=AVR ISP NewDesignator=P6
+Change Component Designator: OldDesignator=BATTERY NewDesignator=P5
+Change Component Designator: OldDesignator=POT NewDesignator=P1
+Change Component Designator: OldDesignator=POW LED NewDesignator=P3
+Change Component Designator: OldDesignator=STAT LED NewDesignator=P2
+Change Component Designator: OldDesignator=SWITCH NewDesignator=P4
+Added Room: Name=MainPCB

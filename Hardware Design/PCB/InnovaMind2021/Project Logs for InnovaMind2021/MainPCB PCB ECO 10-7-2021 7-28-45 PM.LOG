@@ -1,0 +1,22 @@
+Added Component: Designator=DS(LCD_LCD-20X4B)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Gravitech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=833821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LCD-20X4B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LCD-20X4B/Gravitech/view-part/833821/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT - Pin=DS-1
+Added Pin To Net: NetName=+5V Pin=DS-2
+Added Pin To Net: NetName=NetDS_3 Pin=DS-3
+Added Pin To Net: NetName=RS Pin=DS-4
+Added Pin To Net: NetName=BAT - Pin=DS-5
+Added Pin To Net: NetName=Enable Pin=DS-6
+Added Pin To Net: NetName=D4 Pin=DS-11
+Added Pin To Net: NetName=D5 Pin=DS-12
+Added Pin To Net: NetName=D6 Pin=DS-13
+Added Pin To Net: NetName=D7 Pin=DS-14
+Added Pin To Net: NetName=+5V Pin=DS-15
+Added Pin To Net: NetName=BAT - Pin=DS-16
+Added Member To Class: ClassName=MainPCB Member=Component DS LCD-20X4B

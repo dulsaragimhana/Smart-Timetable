@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=BAT - Pin=C3-2
+Removed Pin From Net: NetName=BAT - Pin=C4-1
+Change Component Comment : Designator=P3 Old Comment=Power LED New Comment=POW LED
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C4-1
+Added Net: Name=NetC3_2
+Added Room: Name=MainPCB

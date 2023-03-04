@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=AVR ISP NewDesignator=P6
+Change Component Designator: OldDesignator=BATT IN NewDesignator=P5
+Change Component Designator: OldDesignator=POT NewDesignator=P1
+Change Component Designator: OldDesignator=POW LED NewDesignator=P3
+Change Component Designator: OldDesignator=Status LED NewDesignator=P2
+Change Component Designator: OldDesignator=SWITCH NewDesignator=P4
+Added Pin To Net: NetName=BAT - Pin=C1-1
+Added Pin To Net: NetName=BAT - Pin=C2-2
+Added Pin To Net: NetName=BAT - Pin=C3-2
+Added Pin To Net: NetName=BAT - Pin=C4-1
+Added Room: Name=MainPCB
